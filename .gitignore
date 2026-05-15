@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Build
+gen/
+bin/
+out/
+
+# External native build
+.externalNativeBuild
+.cxx/
+
+# Keystores
+*.jks
+*.keystore
+
+# IDE
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
+*.swo
+*~
