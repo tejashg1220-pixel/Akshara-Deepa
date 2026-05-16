@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">825275382982</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBB3Dghd73a9-ThfH_Dco1yIySDRtEFYM</string>
+    <string name="google_app_id" translatable="false">1:825275382982:android:227ab02950d8ac59552bc7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBB3Dghd73a9-ThfH_Dco1yIySDRtEFYM</string>
+    <string name="google_storage_bucket" translatable="false">akshara-deepa-tutor-f77db.firebasestorage.app</string>
+    <string name="project_id" translatable="false">akshara-deepa-tutor-f77db</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#4A148C</color>
+    <color name="background">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="primary">#1A237E</color>
+    <color name="primary_dark">#0D1642</color>
+    <color name="primary_light">#283593</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <string name="app_name">Akshara-Deepa Tutor</string>
+    <string name="gcm_defaultSenderId" translatable="false">825275382982</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBB3Dghd73a9-ThfH_Dco1yIySDRtEFYM</string>
+    <string name="google_app_id" translatable="false">1:825275382982:android:227ab02950d8ac59552bc7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBB3Dghd73a9-ThfH_Dco1yIySDRtEFYM</string>
+    <string name="google_storage_bucket" translatable="false">akshara-deepa-tutor-f77db.firebasestorage.app</string>
+    <string name="project_id" translatable="false">akshara-deepa-tutor-f77db</string>
+    <style name="Theme.AksharaDeepaTutor" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/card_background</item>
+        <item name="android:colorAccent">@color/primary</item>
+    </style>
+</resources>

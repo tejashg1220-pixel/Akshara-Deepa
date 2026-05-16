@@ -1,0 +1,23 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Prototype/demo rules for the current app flow.
+    // The app currently uses custom phone/password login, not FirebaseAuth,
+    // so request.auth is null. Use these only for demo/testing.
+    match /users/{userId} {
+      allow read, write: if true;
+
+      match /completedChapters/{chapterId} {
+        allow read, write: if true;
+      }
+
+      match /quizResults/{resultId} {
+        allow read, write: if true;
+      }
+    }
+
+    match /questionBank/{subjectKey}/chapters/{chapterId}/questions/{questionId} {
+      allow read, write: if true;
+    }
+  }
+}

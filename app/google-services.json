@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825275382982",
+    "project_id": "akshara-deepa-tutor-f77db",
+    "storage_bucket": "akshara-deepa-tutor-f77db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825275382982:android:227ab02950d8ac59552bc7",
+        "android_client_info": {
+          "package_name": "com.aksharadeepa.tutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBB3Dghd73a9-ThfH_Dco1yIySDRtEFYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

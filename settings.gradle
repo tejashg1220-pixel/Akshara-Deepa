@@ -11,9 +11,8 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { url 'https://jitpack.io' }
     }
 }
 
-rootProject.name = "Akshara-Deepa Tutor"
-include ':app'
+rootProject.name = "AksharaDeepaTutor"
+include ":app"

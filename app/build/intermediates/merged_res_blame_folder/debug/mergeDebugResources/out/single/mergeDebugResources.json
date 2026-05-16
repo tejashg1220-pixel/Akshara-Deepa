@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.aksharadeepa.tutor.app-debug-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.aksharadeepa.tutor.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.aksharadeepa.tutor.app-debug-5:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.aksharadeepa.tutor.app-main-7:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.aksharadeepa.tutor.app-debug-5:/drawable_ic_launcher.xml.flat",
+        "source": "com.aksharadeepa.tutor.app-main-7:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.aksharadeepa.tutor.app-debug-5:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.aksharadeepa.tutor.app-main-7:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.aksharadeepa.tutor.app-debug-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.aksharadeepa.tutor.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.aksharadeepa.tutor.app-debug-5:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.aksharadeepa.tutor.app-main-7:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.aksharadeepa.tutor.app-debug-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.aksharadeepa.tutor.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.aksharadeepa.tutor.app-debug-5:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.aksharadeepa.tutor.app-main-7:/mipmap-anydpi/ic_launcher.xml"
+    }
+]
